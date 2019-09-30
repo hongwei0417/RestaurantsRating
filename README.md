@@ -1,0 +1,2 @@
+# RestaurantsRating
+truffle example
